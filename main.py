@@ -1,2 +1,8 @@
-import subprocess  
-print(subprocess.run(["playwright", "--version"], capture_output=True, text=True).stdout or "Playwright not installed.")
+from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.get("/")
+async def home():
+    return {"message": "Hello from FastAPI!"}
+
