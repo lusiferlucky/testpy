@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Install Playwright browsers
-python -m playwright install
+python -m playwright install --with-deps
