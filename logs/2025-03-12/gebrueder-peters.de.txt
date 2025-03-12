@@ -1,0 +1,719 @@
+2025-03-12 17:17:14 - 
+========================================
+2025-03-12 17:17:14 - 
+========================================
+2025-03-12 17:17:14 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:17:14 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:17:14 - ========================================
+2025-03-12 17:17:14 - ========================================
+2025-03-12 17:19:06 - 
+========================================
+2025-03-12 17:19:06 - 
+========================================
+2025-03-12 17:19:06 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:19:06 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:19:06 - ========================================
+2025-03-12 17:19:06 - ========================================
+2025-03-12 17:21:19 - 
+========================================
+2025-03-12 17:21:19 - 
+========================================
+2025-03-12 17:21:19 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:21:19 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:21:19 - ========================================
+2025-03-12 17:21:19 - ========================================
+2025-03-12 17:21:19 - ❌ Error encountered: launch_browser() got an unexpected keyword argument 'headless'
+2025-03-12 17:21:19 - ❌ Error encountered: launch_browser() got an unexpected keyword argument 'headless'
+2025-03-12 17:21:19 - ========================================
+2025-03-12 17:21:19 - ========================================
+2025-03-12 17:21:19 - ✅ [TEST COMPLETED]
+2025-03-12 17:21:19 - ✅ [TEST COMPLETED]
+2025-03-12 17:21:19 - ========================================
+2025-03-12 17:21:19 - ========================================
+2025-03-12 17:22:19 - 
+========================================
+2025-03-12 17:22:19 - 
+========================================
+2025-03-12 17:22:19 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:22:19 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:22:19 - ========================================
+2025-03-12 17:22:19 - ========================================
+2025-03-12 17:22:19 - ❌ Error encountered: launch_browser() got an unexpected keyword argument 'headless'
+2025-03-12 17:22:19 - ❌ Error encountered: launch_browser() got an unexpected keyword argument 'headless'
+2025-03-12 17:22:19 - ========================================
+2025-03-12 17:22:19 - ========================================
+2025-03-12 17:22:19 - ✅ [TEST COMPLETED]
+2025-03-12 17:22:19 - ✅ [TEST COMPLETED]
+2025-03-12 17:22:19 - ========================================
+2025-03-12 17:22:19 - ========================================
+2025-03-12 17:22:27 - 
+========================================
+2025-03-12 17:22:27 - 
+========================================
+2025-03-12 17:22:27 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:22:27 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:22:27 - ========================================
+2025-03-12 17:22:27 - ========================================
+2025-03-12 17:22:27 - ❌ Error encountered: launch_browser() got an unexpected keyword argument 'headless'
+2025-03-12 17:22:27 - ❌ Error encountered: launch_browser() got an unexpected keyword argument 'headless'
+2025-03-12 17:22:27 - ========================================
+2025-03-12 17:22:27 - ========================================
+2025-03-12 17:22:27 - ✅ [TEST COMPLETED]
+2025-03-12 17:22:27 - ✅ [TEST COMPLETED]
+2025-03-12 17:22:27 - ========================================
+2025-03-12 17:22:27 - ========================================
+2025-03-12 17:23:53 - 
+========================================
+2025-03-12 17:23:53 - 
+========================================
+2025-03-12 17:23:53 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:23:53 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:23:53 - ========================================
+2025-03-12 17:23:53 - ========================================
+2025-03-12 17:23:53 - ❌ Error encountered: name 'headless' is not defined
+2025-03-12 17:23:53 - ❌ Error encountered: name 'headless' is not defined
+2025-03-12 17:23:53 - ========================================
+2025-03-12 17:23:53 - ========================================
+2025-03-12 17:23:53 - ✅ [TEST COMPLETED]
+2025-03-12 17:23:53 - ✅ [TEST COMPLETED]
+2025-03-12 17:23:53 - ========================================
+2025-03-12 17:23:53 - ========================================
+2025-03-12 17:24:28 - 
+========================================
+2025-03-12 17:24:28 - 
+========================================
+2025-03-12 17:24:28 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:24:28 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:24:28 - ========================================
+2025-03-12 17:24:28 - ========================================
+2025-03-12 17:24:28 - ❌ Error encountered: name 'true' is not defined
+2025-03-12 17:24:28 - ❌ Error encountered: name 'true' is not defined
+2025-03-12 17:24:28 - ========================================
+2025-03-12 17:24:28 - ========================================
+2025-03-12 17:24:28 - ✅ [TEST COMPLETED]
+2025-03-12 17:24:28 - ✅ [TEST COMPLETED]
+2025-03-12 17:24:28 - ========================================
+2025-03-12 17:24:28 - ========================================
+2025-03-12 17:25:17 - 
+========================================
+2025-03-12 17:25:17 - 
+========================================
+2025-03-12 17:25:17 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:25:17 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:25:17 - ========================================
+2025-03-12 17:25:17 - ========================================
+2025-03-12 17:25:17 - ❌ Error encountered: Target page, context or browser has been closed
+Browser logs:
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Looks like you launched a headed browser without having a XServer running.                     ║
+║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║
+║                                                                                                ║
+║ <3 Playwright Team                                                                             ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+2025-03-12 17:25:17 - ❌ Error encountered: Target page, context or browser has been closed
+Browser logs:
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Looks like you launched a headed browser without having a XServer running.                     ║
+║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║
+║                                                                                                ║
+║ <3 Playwright Team                                                                             ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+2025-03-12 17:25:17 - ========================================
+2025-03-12 17:25:17 - ========================================
+2025-03-12 17:25:17 - ✅ [TEST COMPLETED]
+2025-03-12 17:25:17 - ✅ [TEST COMPLETED]
+2025-03-12 17:25:17 - ========================================
+2025-03-12 17:25:17 - ========================================
+2025-03-12 17:25:26 - 
+========================================
+2025-03-12 17:25:26 - 
+========================================
+2025-03-12 17:25:26 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:25:26 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:25:26 - ========================================
+2025-03-12 17:25:26 - ========================================
+2025-03-12 17:25:26 - ❌ Error encountered: Target page, context or browser has been closed
+Browser logs:
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Looks like you launched a headed browser without having a XServer running.                     ║
+║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║
+║                                                                                                ║
+║ <3 Playwright Team                                                                             ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+2025-03-12 17:25:26 - ❌ Error encountered: Target page, context or browser has been closed
+Browser logs:
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Looks like you launched a headed browser without having a XServer running.                     ║
+║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║
+║                                                                                                ║
+║ <3 Playwright Team                                                                             ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+2025-03-12 17:25:26 - ========================================
+2025-03-12 17:25:26 - ========================================
+2025-03-12 17:25:26 - ✅ [TEST COMPLETED]
+2025-03-12 17:25:26 - ✅ [TEST COMPLETED]
+2025-03-12 17:25:26 - ========================================
+2025-03-12 17:25:26 - ========================================
+2025-03-12 17:26:57 - 
+========================================
+2025-03-12 17:26:57 - 
+========================================
+2025-03-12 17:26:57 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:26:57 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:26:57 - ========================================
+2025-03-12 17:26:57 - ========================================
+2025-03-12 17:26:58 - 🧹 Clearing cookies and storage...
+2025-03-12 17:26:58 - 🧹 Clearing cookies and storage...
+2025-03-12 17:27:01 - 🌍 Navigating to https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123...
+2025-03-12 17:27:01 - 🌍 Navigating to https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123...
+2025-03-12 17:27:01 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/load-js-app.php...
+2025-03-12 17:27:01 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/load-js-app.php...
+2025-03-12 17:27:01 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/process.php...
+2025-03-12 17:27:01 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/process.php...
+2025-03-12 17:27:04 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/load-js-app.php
+📤 POST Data: ------WebKitFormBoundaryaYBK6ejRucW7o9EM
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryaYBK6ejRucW7o9EM--
+
+2025-03-12 17:27:04 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/load-js-app.php
+📤 POST Data: ------WebKitFormBoundaryaYBK6ejRucW7o9EM
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryaYBK6ejRucW7o9EM--
+
+2025-03-12 17:27:04 - 📥 AJAX Response: https://jobspreader.com/pxl/load-js-app.php (Status: 200)
+📥 Full JSON Response:
+{"app_type":"start","consent_match":"matomo","consent_action":"borlabs-cookie","consent_type":{"RegexConsent":"0","LocalStorageConsent":"0","CookieConsentEncoded":"0"},"js_start":[{"Text":["Jetzt online bewerben","Apply online now"],"Element":".apply-btn"}],"js_end":[],"js_appid":"46","is_refresh":"Yes","js_end_type":"URL","register":[{"Type":"Instant","Value":""},{"Type":"AfterClick","Value":{"Selectors":[{"Text":[""],"Element":"._brlbs-accept a"}]}}],"allowed_states":"Cookie","redecorate":"1"}
+2025-03-12 17:27:04 - 📥 AJAX Response: https://jobspreader.com/pxl/load-js-app.php (Status: 200)
+📥 Full JSON Response:
+{"app_type":"start","consent_match":"matomo","consent_action":"borlabs-cookie","consent_type":{"RegexConsent":"0","LocalStorageConsent":"0","CookieConsentEncoded":"0"},"js_start":[{"Text":["Jetzt online bewerben","Apply online now"],"Element":".apply-btn"}],"js_end":[],"js_appid":"46","is_refresh":"Yes","js_end_type":"URL","register":[{"Type":"Instant","Value":""},{"Type":"AfterClick","Value":{"Selectors":[{"Text":[""],"Element":"._brlbs-accept a"}]}}],"allowed_states":"Cookie","redecorate":"1"}
+2025-03-12 17:27:07 - ✅ Found consent button [._brlbs-accept a] with text 'Alle akzeptieren', clicking...
+2025-03-12 17:27:07 - ✅ Found consent button [._brlbs-accept a] with text 'Alle akzeptieren', clicking...
+2025-03-12 17:27:07 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/process.php
+📤 POST Data: ------WebKitFormBoundaryy9RzMoJZAZeyZRcd
+Content-Disposition: form-data; name="jsl"
+
+MTIzfGh0dHBzOi8vd3d3LmdlYnJ1ZWRlci1wZXRlcnMuZGUvam9iLWFuemVpZ2VuLz9qb2JfYWQ9dGVhbWxlaXRlci1rb25zdHJ1a3Rpb24tdGVjaG5pc2NoZXItc3lzdGVtcGxhbmVyLWVsZWt0cm90ZWNobmlrLW0tdy1kLS0tam9iLWluZ29sc3RhZHQtOTY1MTUmdGM9Mi0xNTgwJmpzY2lkPTczMzM0N19jX2MmanN1aWQ9MTIzfHA=
+------WebKitFormBoundaryy9RzMoJZAZeyZRcd
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryy9RzMoJZAZeyZRcd
+Content-Disposition: form-data; name="apptype"
+
+start
+------WebKitFormBoundaryy9RzMoJZAZeyZRcd--
+
+2025-03-12 17:27:07 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/process.php
+📤 POST Data: ------WebKitFormBoundaryy9RzMoJZAZeyZRcd
+Content-Disposition: form-data; name="jsl"
+
+MTIzfGh0dHBzOi8vd3d3LmdlYnJ1ZWRlci1wZXRlcnMuZGUvam9iLWFuemVpZ2VuLz9qb2JfYWQ9dGVhbWxlaXRlci1rb25zdHJ1a3Rpb24tdGVjaG5pc2NoZXItc3lzdGVtcGxhbmVyLWVsZWt0cm90ZWNobmlrLW0tdy1kLS0tam9iLWluZ29sc3RhZHQtOTY1MTUmdGM9Mi0xNTgwJmpzY2lkPTczMzM0N19jX2MmanN1aWQ9MTIzfHA=
+------WebKitFormBoundaryy9RzMoJZAZeyZRcd
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryy9RzMoJZAZeyZRcd
+Content-Disposition: form-data; name="apptype"
+
+start
+------WebKitFormBoundaryy9RzMoJZAZeyZRcd--
+
+2025-03-12 17:27:07 - 📥 AJAX Response: https://jobspreader.com/pxl/process.php (Status: 200)
+📥 Response Body (non-JSON):
+<pre>You're awesome!
+2025-03-12 17:27:07 - 📥 AJAX Response: https://jobspreader.com/pxl/process.php (Status: 200)
+📥 Response Body (non-JSON):
+<pre>You're awesome!
+2025-03-12 17:27:13 - ⏳ Checking for script load...
+2025-03-12 17:27:13 - ⏳ Checking for script load...
+2025-03-12 17:27:13 - 📜 Loaded Scripts: ['//matomo.gebr-peters.de/matomo.js', 'https://www.gebrueder-peters.de/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=470000', 'https://www.gebrueder-peters.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap.bundle.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap-multiselect.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/jquery.touchSwipe.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/slick.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/countUp.umd.js?ver=2.3.2', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/aos.js?ver=3.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-card/image-card.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-slider/image-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/partner-slider/partner-slider.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/reveal-gallery/reveal-gallery.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/job/job-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/fancybox.umd.js?ver=4.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/lightbox.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.3', 'https://jobspreader.com/pxl/reload.min.js?ts=1741800424', 'https://www.jobcluster.de/js/customer/job-ad-integration.js', 'https://www.gebrueder-peters.de/wp-includes/js/imagesloaded.min.js?ver=5.0.0', 'https://www.gebrueder-peters.de/wp-includes/js/masonry.min.js?ver=4.2.2', 'https://www.gebrueder-peters.de/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.2.08', 'https://www.gebrueder-peters.de/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js?ver=4.6.4', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/navigation.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/aos.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/key-fact-card.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.10', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/scripts/46.min.js?ts=1741800422', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741800422582']
+2025-03-12 17:27:13 - 📜 Loaded Scripts: ['//matomo.gebr-peters.de/matomo.js', 'https://www.gebrueder-peters.de/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=470000', 'https://www.gebrueder-peters.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap.bundle.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap-multiselect.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/jquery.touchSwipe.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/slick.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/countUp.umd.js?ver=2.3.2', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/aos.js?ver=3.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-card/image-card.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-slider/image-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/partner-slider/partner-slider.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/reveal-gallery/reveal-gallery.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/job/job-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/fancybox.umd.js?ver=4.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/lightbox.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.3', 'https://jobspreader.com/pxl/reload.min.js?ts=1741800424', 'https://www.jobcluster.de/js/customer/job-ad-integration.js', 'https://www.gebrueder-peters.de/wp-includes/js/imagesloaded.min.js?ver=5.0.0', 'https://www.gebrueder-peters.de/wp-includes/js/masonry.min.js?ver=4.2.2', 'https://www.gebrueder-peters.de/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.2.08', 'https://www.gebrueder-peters.de/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js?ver=4.6.4', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/navigation.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/aos.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/key-fact-card.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.10', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/scripts/46.min.js?ts=1741800422', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741800422582']
+2025-03-12 17:27:13 - ✅ Target script found: https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741800422582
+2025-03-12 17:27:13 - ✅ Target script found: https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741800422582
+2025-03-12 17:27:13 - 🔎 Checking for 'matomo' cookie...
+2025-03-12 17:27:13 - 🔎 Checking for 'matomo' cookie...
+2025-03-12 17:27:13 - ❌ 'matomo' cookie not found!
+2025-03-12 17:27:13 - ❌ 'matomo' cookie not found!
+2025-03-12 17:27:14 - ========================================
+2025-03-12 17:27:14 - ========================================
+2025-03-12 17:27:14 - ✅ [TEST COMPLETED]
+2025-03-12 17:27:14 - ✅ [TEST COMPLETED]
+2025-03-12 17:27:14 - ========================================
+2025-03-12 17:27:14 - ========================================
+2025-03-12 17:31:35 - 
+========================================
+2025-03-12 17:31:35 - 
+========================================
+2025-03-12 17:31:35 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:31:35 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:31:35 - ========================================
+2025-03-12 17:31:35 - ========================================
+2025-03-12 17:31:36 - 🧹 Clearing cookies and storage...
+2025-03-12 17:31:36 - 🧹 Clearing cookies and storage...
+2025-03-12 17:31:38 - 🌍 Navigating to https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123...
+2025-03-12 17:31:38 - 🌍 Navigating to https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123...
+2025-03-12 17:31:38 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/load-js-app.php...
+2025-03-12 17:31:38 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/load-js-app.php...
+2025-03-12 17:31:38 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/process.php...
+2025-03-12 17:31:38 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/process.php...
+2025-03-12 17:31:40 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/load-js-app.php
+📤 POST Data: ------WebKitFormBoundary5VzBpYhsm4BM9BU0
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundary5VzBpYhsm4BM9BU0--
+
+2025-03-12 17:31:40 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/load-js-app.php
+📤 POST Data: ------WebKitFormBoundary5VzBpYhsm4BM9BU0
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundary5VzBpYhsm4BM9BU0--
+
+2025-03-12 17:31:40 - 📥 AJAX Response: https://jobspreader.com/pxl/load-js-app.php (Status: 200)
+📥 Full JSON Response:
+{"app_type":"start","consent_match":"matomo","consent_action":"borlabs-cookie","consent_type":{"RegexConsent":"0","LocalStorageConsent":"0","CookieConsentEncoded":"0"},"js_start":[{"Text":["Jetzt online bewerben","Apply online now"],"Element":".apply-btn"}],"js_end":[],"js_appid":"46","is_refresh":"Yes","js_end_type":"URL","register":[{"Type":"Instant","Value":""},{"Type":"AfterClick","Value":{"Selectors":[{"Text":[""],"Element":"._brlbs-accept a"}]}}],"allowed_states":"Cookie","redecorate":"1"}
+2025-03-12 17:31:40 - 📥 AJAX Response: https://jobspreader.com/pxl/load-js-app.php (Status: 200)
+📥 Full JSON Response:
+{"app_type":"start","consent_match":"matomo","consent_action":"borlabs-cookie","consent_type":{"RegexConsent":"0","LocalStorageConsent":"0","CookieConsentEncoded":"0"},"js_start":[{"Text":["Jetzt online bewerben","Apply online now"],"Element":".apply-btn"}],"js_end":[],"js_appid":"46","is_refresh":"Yes","js_end_type":"URL","register":[{"Type":"Instant","Value":""},{"Type":"AfterClick","Value":{"Selectors":[{"Text":[""],"Element":"._brlbs-accept a"}]}}],"allowed_states":"Cookie","redecorate":"1"}
+2025-03-12 17:31:44 - ✅ Found consent button [._brlbs-accept a] with text 'Alle akzeptieren', clicking...
+2025-03-12 17:31:44 - ✅ Found consent button [._brlbs-accept a] with text 'Alle akzeptieren', clicking...
+2025-03-12 17:31:44 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/process.php
+📤 POST Data: ------WebKitFormBoundary3IaBMLGhJ1GdDENO
+Content-Disposition: form-data; name="jsl"
+
+MTIzfGh0dHBzOi8vd3d3LmdlYnJ1ZWRlci1wZXRlcnMuZGUvam9iLWFuemVpZ2VuLz9qb2JfYWQ9dGVhbWxlaXRlci1rb25zdHJ1a3Rpb24tdGVjaG5pc2NoZXItc3lzdGVtcGxhbmVyLWVsZWt0cm90ZWNobmlrLW0tdy1kLS0tam9iLWluZ29sc3RhZHQtOTY1MTUmdGM9Mi0xNTgwJmpzY2lkPTczMzM0N19jX2MmanN1aWQ9MTIzfHA=
+------WebKitFormBoundary3IaBMLGhJ1GdDENO
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundary3IaBMLGhJ1GdDENO
+Content-Disposition: form-data; name="apptype"
+
+start
+------WebKitFormBoundary3IaBMLGhJ1GdDENO--
+
+2025-03-12 17:31:44 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/process.php
+📤 POST Data: ------WebKitFormBoundary3IaBMLGhJ1GdDENO
+Content-Disposition: form-data; name="jsl"
+
+MTIzfGh0dHBzOi8vd3d3LmdlYnJ1ZWRlci1wZXRlcnMuZGUvam9iLWFuemVpZ2VuLz9qb2JfYWQ9dGVhbWxlaXRlci1rb25zdHJ1a3Rpb24tdGVjaG5pc2NoZXItc3lzdGVtcGxhbmVyLWVsZWt0cm90ZWNobmlrLW0tdy1kLS0tam9iLWluZ29sc3RhZHQtOTY1MTUmdGM9Mi0xNTgwJmpzY2lkPTczMzM0N19jX2MmanN1aWQ9MTIzfHA=
+------WebKitFormBoundary3IaBMLGhJ1GdDENO
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundary3IaBMLGhJ1GdDENO
+Content-Disposition: form-data; name="apptype"
+
+start
+------WebKitFormBoundary3IaBMLGhJ1GdDENO--
+
+2025-03-12 17:31:44 - 📥 AJAX Response: https://jobspreader.com/pxl/process.php (Status: 200)
+📥 Response Body (non-JSON):
+<pre>You're awesome!
+2025-03-12 17:31:44 - 📥 AJAX Response: https://jobspreader.com/pxl/process.php (Status: 200)
+📥 Response Body (non-JSON):
+<pre>You're awesome!
+2025-03-12 17:31:50 - ⏳ Checking for script load...
+2025-03-12 17:31:50 - ⏳ Checking for script load...
+2025-03-12 17:31:50 - 📜 Loaded Scripts: ['//matomo.gebr-peters.de/matomo.js', 'https://www.gebrueder-peters.de/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=470000', 'https://www.gebrueder-peters.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap.bundle.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap-multiselect.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/jquery.touchSwipe.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/slick.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/countUp.umd.js?ver=2.3.2', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/aos.js?ver=3.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-card/image-card.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-slider/image-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/partner-slider/partner-slider.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/reveal-gallery/reveal-gallery.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/job/job-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/fancybox.umd.js?ver=4.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/lightbox.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.3', 'https://jobspreader.com/pxl/reload.min.js?ts=1741800700', 'https://www.jobcluster.de/js/customer/job-ad-integration.js', 'https://www.gebrueder-peters.de/wp-includes/js/imagesloaded.min.js?ver=5.0.0', 'https://www.gebrueder-peters.de/wp-includes/js/masonry.min.js?ver=4.2.2', 'https://www.gebrueder-peters.de/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.2.08', 'https://www.gebrueder-peters.de/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js?ver=4.6.4', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/navigation.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/aos.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/key-fact-card.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.10', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/scripts/46.min.js?ts=1741800700', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741800700012']
+2025-03-12 17:31:50 - 📜 Loaded Scripts: ['//matomo.gebr-peters.de/matomo.js', 'https://www.gebrueder-peters.de/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=470000', 'https://www.gebrueder-peters.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap.bundle.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap-multiselect.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/jquery.touchSwipe.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/slick.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/countUp.umd.js?ver=2.3.2', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/aos.js?ver=3.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-card/image-card.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-slider/image-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/partner-slider/partner-slider.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/reveal-gallery/reveal-gallery.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/job/job-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/fancybox.umd.js?ver=4.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/lightbox.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.3', 'https://jobspreader.com/pxl/reload.min.js?ts=1741800700', 'https://www.jobcluster.de/js/customer/job-ad-integration.js', 'https://www.gebrueder-peters.de/wp-includes/js/imagesloaded.min.js?ver=5.0.0', 'https://www.gebrueder-peters.de/wp-includes/js/masonry.min.js?ver=4.2.2', 'https://www.gebrueder-peters.de/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.2.08', 'https://www.gebrueder-peters.de/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js?ver=4.6.4', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/navigation.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/aos.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/key-fact-card.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.10', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/scripts/46.min.js?ts=1741800700', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741800700012']
+2025-03-12 17:31:50 - ✅ Target script found: https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741800700012
+2025-03-12 17:31:50 - ✅ Target script found: https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741800700012
+2025-03-12 17:31:50 - 🔎 Checking for 'matomo' cookie...
+2025-03-12 17:31:50 - 🔎 Checking for 'matomo' cookie...
+2025-03-12 17:31:50 - ❌ 'matomo' cookie not found!
+2025-03-12 17:31:50 - ❌ 'matomo' cookie not found!
+2025-03-12 17:31:50 - 💾 Storage used: 0.00 MB
+2025-03-12 17:31:50 - 💾 Storage used: 0.00 MB
+2025-03-12 17:31:50 - 🔍 Memory usage: 4.62 MB
+2025-03-12 17:31:50 - 🔍 Memory usage: 4.62 MB
+2025-03-12 17:31:50 - ========================================
+2025-03-12 17:31:50 - ========================================
+2025-03-12 17:31:50 - ✅ [TEST COMPLETED]
+2025-03-12 17:31:50 - ✅ [TEST COMPLETED]
+2025-03-12 17:31:50 - ========================================
+2025-03-12 17:31:51 - ========================================
+2025-03-12 17:36:29 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:36:29 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:36:29 - 🧹 Clearing cookies and storage...
+2025-03-12 17:36:29 - 🧹 Clearing cookies and storage...
+2025-03-12 17:36:32 - 🌍 Navigating to https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123...
+2025-03-12 17:36:32 - 🌍 Navigating to https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123...
+2025-03-12 17:36:32 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/load-js-app.php...
+2025-03-12 17:36:32 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/load-js-app.php...
+2025-03-12 17:36:32 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/process.php...
+2025-03-12 17:36:32 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/process.php...
+2025-03-12 17:36:33 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/load-js-app.php
+📤 POST Data: ------WebKitFormBoundary6YwOmGxDA20N9yoN
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundary6YwOmGxDA20N9yoN--
+
+2025-03-12 17:36:33 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/load-js-app.php
+📤 POST Data: ------WebKitFormBoundary6YwOmGxDA20N9yoN
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundary6YwOmGxDA20N9yoN--
+
+2025-03-12 17:36:34 - 📥 AJAX Response: https://jobspreader.com/pxl/load-js-app.php (Status: 200)
+📥 Full JSON Response:
+{"app_type":"start","consent_match":"matomo","consent_action":"borlabs-cookie","consent_type":{"RegexConsent":"0","LocalStorageConsent":"0","CookieConsentEncoded":"0"},"js_start":[{"Text":["Jetzt online bewerben","Apply online now"],"Element":".apply-btn"}],"js_end":[],"js_appid":"46","is_refresh":"Yes","js_end_type":"URL","register":[{"Type":"Instant","Value":""},{"Type":"AfterClick","Value":{"Selectors":[{"Text":[""],"Element":"._brlbs-accept a"}]}}],"allowed_states":"Cookie","redecorate":"1"}
+2025-03-12 17:36:34 - 📥 AJAX Response: https://jobspreader.com/pxl/load-js-app.php (Status: 200)
+📥 Full JSON Response:
+{"app_type":"start","consent_match":"matomo","consent_action":"borlabs-cookie","consent_type":{"RegexConsent":"0","LocalStorageConsent":"0","CookieConsentEncoded":"0"},"js_start":[{"Text":["Jetzt online bewerben","Apply online now"],"Element":".apply-btn"}],"js_end":[],"js_appid":"46","is_refresh":"Yes","js_end_type":"URL","register":[{"Type":"Instant","Value":""},{"Type":"AfterClick","Value":{"Selectors":[{"Text":[""],"Element":"._brlbs-accept a"}]}}],"allowed_states":"Cookie","redecorate":"1"}
+2025-03-12 17:36:38 - ✅ Found consent button [._brlbs-accept a] with text 'Alle akzeptieren', clicking...
+2025-03-12 17:36:38 - ✅ Found consent button [._brlbs-accept a] with text 'Alle akzeptieren', clicking...
+2025-03-12 17:36:38 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/process.php
+📤 POST Data: ------WebKitFormBoundaryUIPx4vutU1RikPpn
+Content-Disposition: form-data; name="jsl"
+
+MTIzfGh0dHBzOi8vd3d3LmdlYnJ1ZWRlci1wZXRlcnMuZGUvam9iLWFuemVpZ2VuLz9qb2JfYWQ9dGVhbWxlaXRlci1rb25zdHJ1a3Rpb24tdGVjaG5pc2NoZXItc3lzdGVtcGxhbmVyLWVsZWt0cm90ZWNobmlrLW0tdy1kLS0tam9iLWluZ29sc3RhZHQtOTY1MTUmdGM9Mi0xNTgwJmpzY2lkPTczMzM0N19jX2MmanN1aWQ9MTIzfHA=
+------WebKitFormBoundaryUIPx4vutU1RikPpn
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryUIPx4vutU1RikPpn
+Content-Disposition: form-data; name="apptype"
+
+start
+------WebKitFormBoundaryUIPx4vutU1RikPpn--
+
+2025-03-12 17:36:38 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/process.php
+📤 POST Data: ------WebKitFormBoundaryUIPx4vutU1RikPpn
+Content-Disposition: form-data; name="jsl"
+
+MTIzfGh0dHBzOi8vd3d3LmdlYnJ1ZWRlci1wZXRlcnMuZGUvam9iLWFuemVpZ2VuLz9qb2JfYWQ9dGVhbWxlaXRlci1rb25zdHJ1a3Rpb24tdGVjaG5pc2NoZXItc3lzdGVtcGxhbmVyLWVsZWt0cm90ZWNobmlrLW0tdy1kLS0tam9iLWluZ29sc3RhZHQtOTY1MTUmdGM9Mi0xNTgwJmpzY2lkPTczMzM0N19jX2MmanN1aWQ9MTIzfHA=
+------WebKitFormBoundaryUIPx4vutU1RikPpn
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryUIPx4vutU1RikPpn
+Content-Disposition: form-data; name="apptype"
+
+start
+------WebKitFormBoundaryUIPx4vutU1RikPpn--
+
+2025-03-12 17:36:38 - 📥 AJAX Response: https://jobspreader.com/pxl/process.php (Status: 200)
+📥 Response Body (non-JSON):
+<pre>You're awesome!
+2025-03-12 17:36:38 - 📥 AJAX Response: https://jobspreader.com/pxl/process.php (Status: 200)
+📥 Response Body (non-JSON):
+<pre>You're awesome!
+2025-03-12 17:36:44 - ⏳ Checking for script load...
+2025-03-12 17:36:44 - ⏳ Checking for script load...
+2025-03-12 17:36:44 - 📜 Loaded Scripts: ['//matomo.gebr-peters.de/matomo.js', 'https://www.gebrueder-peters.de/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=470000', 'https://www.gebrueder-peters.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap.bundle.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap-multiselect.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/jquery.touchSwipe.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/slick.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/countUp.umd.js?ver=2.3.2', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/aos.js?ver=3.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-card/image-card.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-slider/image-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/partner-slider/partner-slider.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/reveal-gallery/reveal-gallery.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/job/job-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/fancybox.umd.js?ver=4.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/lightbox.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.3', 'https://jobspreader.com/pxl/reload.min.js?ts=1741800994', 'https://www.jobcluster.de/js/customer/job-ad-integration.js', 'https://www.gebrueder-peters.de/wp-includes/js/imagesloaded.min.js?ver=5.0.0', 'https://www.gebrueder-peters.de/wp-includes/js/masonry.min.js?ver=4.2.2', 'https://www.gebrueder-peters.de/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.2.08', 'https://www.gebrueder-peters.de/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js?ver=4.6.4', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/navigation.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/aos.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/key-fact-card.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.10', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/scripts/46.min.js?ts=1741800993', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741800993556']
+2025-03-12 17:36:44 - 📜 Loaded Scripts: ['//matomo.gebr-peters.de/matomo.js', 'https://www.gebrueder-peters.de/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=470000', 'https://www.gebrueder-peters.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap.bundle.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap-multiselect.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/jquery.touchSwipe.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/slick.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/countUp.umd.js?ver=2.3.2', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/aos.js?ver=3.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-card/image-card.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-slider/image-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/partner-slider/partner-slider.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/reveal-gallery/reveal-gallery.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/job/job-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/fancybox.umd.js?ver=4.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/lightbox.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.3', 'https://jobspreader.com/pxl/reload.min.js?ts=1741800994', 'https://www.jobcluster.de/js/customer/job-ad-integration.js', 'https://www.gebrueder-peters.de/wp-includes/js/imagesloaded.min.js?ver=5.0.0', 'https://www.gebrueder-peters.de/wp-includes/js/masonry.min.js?ver=4.2.2', 'https://www.gebrueder-peters.de/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.2.08', 'https://www.gebrueder-peters.de/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js?ver=4.6.4', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/navigation.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/aos.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/key-fact-card.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.10', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/scripts/46.min.js?ts=1741800993', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741800993556']
+2025-03-12 17:36:44 - ✅ Target script found: https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741800993556
+2025-03-12 17:36:44 - ✅ Target script found: https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741800993556
+2025-03-12 17:36:44 - 🔎 Checking for 'matomo' cookie...
+2025-03-12 17:36:44 - 🔎 Checking for 'matomo' cookie...
+2025-03-12 17:36:44 - ❌ 'matomo' cookie not found!
+2025-03-12 17:36:44 - ❌ 'matomo' cookie not found!
+2025-03-12 17:36:44 - 127.0.0.1 - - [12/Mar/2025 17:36:44] "[35m[1mGET /run-test HTTP/1.1[0m" 500 -
+2025-03-12 17:36:48 -  * Detected change in '/workspaces/testpy/main.py', reloading
+2025-03-12 17:36:58 - 
+========================================
+2025-03-12 17:36:58 - 
+========================================
+2025-03-12 17:36:58 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:36:58 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:36:58 - ========================================
+2025-03-12 17:36:58 - ========================================
+2025-03-12 17:36:59 - 🧹 Clearing cookies and storage...
+2025-03-12 17:36:59 - 🧹 Clearing cookies and storage...
+2025-03-12 17:37:01 - 🌍 Navigating to https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123...
+2025-03-12 17:37:01 - 🌍 Navigating to https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123...
+2025-03-12 17:37:01 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/load-js-app.php...
+2025-03-12 17:37:01 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/load-js-app.php...
+2025-03-12 17:37:01 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/process.php...
+2025-03-12 17:37:01 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/process.php...
+2025-03-12 17:37:04 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/load-js-app.php
+📤 POST Data: ------WebKitFormBoundaryB8aNKbdAcWGD9D21
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryB8aNKbdAcWGD9D21--
+
+2025-03-12 17:37:04 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/load-js-app.php
+📤 POST Data: ------WebKitFormBoundaryB8aNKbdAcWGD9D21
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryB8aNKbdAcWGD9D21--
+
+2025-03-12 17:37:04 - 📥 AJAX Response: https://jobspreader.com/pxl/load-js-app.php (Status: 200)
+📥 Full JSON Response:
+{"app_type":"start","consent_match":"matomo","consent_action":"borlabs-cookie","consent_type":{"RegexConsent":"0","LocalStorageConsent":"0","CookieConsentEncoded":"0"},"js_start":[{"Text":["Jetzt online bewerben","Apply online now"],"Element":".apply-btn"}],"js_end":[],"js_appid":"46","is_refresh":"Yes","js_end_type":"URL","register":[{"Type":"Instant","Value":""},{"Type":"AfterClick","Value":{"Selectors":[{"Text":[""],"Element":"._brlbs-accept a"}]}}],"allowed_states":"Cookie","redecorate":"1"}
+2025-03-12 17:37:04 - 📥 AJAX Response: https://jobspreader.com/pxl/load-js-app.php (Status: 200)
+📥 Full JSON Response:
+{"app_type":"start","consent_match":"matomo","consent_action":"borlabs-cookie","consent_type":{"RegexConsent":"0","LocalStorageConsent":"0","CookieConsentEncoded":"0"},"js_start":[{"Text":["Jetzt online bewerben","Apply online now"],"Element":".apply-btn"}],"js_end":[],"js_appid":"46","is_refresh":"Yes","js_end_type":"URL","register":[{"Type":"Instant","Value":""},{"Type":"AfterClick","Value":{"Selectors":[{"Text":[""],"Element":"._brlbs-accept a"}]}}],"allowed_states":"Cookie","redecorate":"1"}
+2025-03-12 17:37:07 - ✅ Found consent button [._brlbs-accept a] with text 'Alle akzeptieren', clicking...
+2025-03-12 17:37:07 - ✅ Found consent button [._brlbs-accept a] with text 'Alle akzeptieren', clicking...
+2025-03-12 17:37:07 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/process.php
+📤 POST Data: ------WebKitFormBoundarydB7O7C13Kdh5HeGN
+Content-Disposition: form-data; name="jsl"
+
+MTIzfGh0dHBzOi8vd3d3LmdlYnJ1ZWRlci1wZXRlcnMuZGUvam9iLWFuemVpZ2VuLz9qb2JfYWQ9dGVhbWxlaXRlci1rb25zdHJ1a3Rpb24tdGVjaG5pc2NoZXItc3lzdGVtcGxhbmVyLWVsZWt0cm90ZWNobmlrLW0tdy1kLS0tam9iLWluZ29sc3RhZHQtOTY1MTUmdGM9Mi0xNTgwJmpzY2lkPTczMzM0N19jX2MmanN1aWQ9MTIzfHA=
+------WebKitFormBoundarydB7O7C13Kdh5HeGN
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundarydB7O7C13Kdh5HeGN
+Content-Disposition: form-data; name="apptype"
+
+start
+------WebKitFormBoundarydB7O7C13Kdh5HeGN--
+
+2025-03-12 17:37:07 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/process.php
+📤 POST Data: ------WebKitFormBoundarydB7O7C13Kdh5HeGN
+Content-Disposition: form-data; name="jsl"
+
+MTIzfGh0dHBzOi8vd3d3LmdlYnJ1ZWRlci1wZXRlcnMuZGUvam9iLWFuemVpZ2VuLz9qb2JfYWQ9dGVhbWxlaXRlci1rb25zdHJ1a3Rpb24tdGVjaG5pc2NoZXItc3lzdGVtcGxhbmVyLWVsZWt0cm90ZWNobmlrLW0tdy1kLS0tam9iLWluZ29sc3RhZHQtOTY1MTUmdGM9Mi0xNTgwJmpzY2lkPTczMzM0N19jX2MmanN1aWQ9MTIzfHA=
+------WebKitFormBoundarydB7O7C13Kdh5HeGN
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundarydB7O7C13Kdh5HeGN
+Content-Disposition: form-data; name="apptype"
+
+start
+------WebKitFormBoundarydB7O7C13Kdh5HeGN--
+
+2025-03-12 17:37:08 - 📥 AJAX Response: https://jobspreader.com/pxl/process.php (Status: 200)
+📥 Response Body (non-JSON):
+<pre>You're awesome!
+2025-03-12 17:37:08 - 📥 AJAX Response: https://jobspreader.com/pxl/process.php (Status: 200)
+📥 Response Body (non-JSON):
+<pre>You're awesome!
+2025-03-12 17:37:10 - 127.0.0.1 - - [12/Mar/2025 17:37:10] "GET / HTTP/1.1" 200 -
+2025-03-12 17:37:13 - ⏳ Checking for script load...
+2025-03-12 17:37:13 - ⏳ Checking for script load...
+2025-03-12 17:37:14 - 📜 Loaded Scripts: ['//matomo.gebr-peters.de/matomo.js', 'https://www.gebrueder-peters.de/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=470000', 'https://www.gebrueder-peters.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap.bundle.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap-multiselect.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/jquery.touchSwipe.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/slick.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/countUp.umd.js?ver=2.3.2', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/aos.js?ver=3.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-card/image-card.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-slider/image-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/partner-slider/partner-slider.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/reveal-gallery/reveal-gallery.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/job/job-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/fancybox.umd.js?ver=4.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/lightbox.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.3', 'https://jobspreader.com/pxl/reload.min.js?ts=1741801024', 'https://www.jobcluster.de/js/customer/job-ad-integration.js', 'https://www.gebrueder-peters.de/wp-includes/js/imagesloaded.min.js?ver=5.0.0', 'https://www.gebrueder-peters.de/wp-includes/js/masonry.min.js?ver=4.2.2', 'https://www.gebrueder-peters.de/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.2.08', 'https://www.gebrueder-peters.de/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js?ver=4.6.4', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/navigation.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/aos.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/key-fact-card.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.10', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/scripts/46.min.js?ts=1741801023', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741801023127']
+2025-03-12 17:37:14 - 📜 Loaded Scripts: ['//matomo.gebr-peters.de/matomo.js', 'https://www.gebrueder-peters.de/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=470000', 'https://www.gebrueder-peters.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap.bundle.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap-multiselect.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/jquery.touchSwipe.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/slick.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/countUp.umd.js?ver=2.3.2', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/aos.js?ver=3.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-card/image-card.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-slider/image-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/partner-slider/partner-slider.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/reveal-gallery/reveal-gallery.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/job/job-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/fancybox.umd.js?ver=4.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/lightbox.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.3', 'https://jobspreader.com/pxl/reload.min.js?ts=1741801024', 'https://www.jobcluster.de/js/customer/job-ad-integration.js', 'https://www.gebrueder-peters.de/wp-includes/js/imagesloaded.min.js?ver=5.0.0', 'https://www.gebrueder-peters.de/wp-includes/js/masonry.min.js?ver=4.2.2', 'https://www.gebrueder-peters.de/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.2.08', 'https://www.gebrueder-peters.de/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js?ver=4.6.4', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/navigation.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/aos.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/key-fact-card.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.10', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/scripts/46.min.js?ts=1741801023', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741801023127']
+2025-03-12 17:37:14 - ✅ Target script found: https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741801023127
+2025-03-12 17:37:14 - ✅ Target script found: https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741801023127
+2025-03-12 17:37:14 - 🔎 Checking for 'matomo' cookie...
+2025-03-12 17:37:14 - 🔎 Checking for 'matomo' cookie...
+2025-03-12 17:37:14 - ❌ 'matomo' cookie not found!
+2025-03-12 17:37:14 - ❌ 'matomo' cookie not found!
+2025-03-12 17:37:14 - 💾 Storage used: 0.00 MB
+2025-03-12 17:37:14 - 💾 Storage used: 0.00 MB
+2025-03-12 17:37:14 - 🔍 Memory usage: 8.55 MB
+2025-03-12 17:37:14 - 🔍 Memory usage: 8.55 MB
+2025-03-12 17:37:14 - ========================================
+2025-03-12 17:37:14 - ========================================
+2025-03-12 17:37:14 - ✅ [TEST COMPLETED]
+2025-03-12 17:37:14 - ✅ [TEST COMPLETED]
+2025-03-12 17:37:14 - ========================================
+2025-03-12 17:37:14 - ========================================
+2025-03-12 17:37:14 - 127.0.0.1 - - [12/Mar/2025 17:37:14] "GET /run-test HTTP/1.1" 200 -
+2025-03-12 17:37:22 - 
+========================================
+2025-03-12 17:37:22 - 
+========================================
+2025-03-12 17:37:22 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:37:22 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:37:22 - ========================================
+2025-03-12 17:37:22 - ========================================
+2025-03-12 17:37:23 - 🧹 Clearing cookies and storage...
+2025-03-12 17:37:23 - 🧹 Clearing cookies and storage...
+2025-03-12 17:37:25 - 🌍 Navigating to https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123...
+2025-03-12 17:37:25 - 🌍 Navigating to https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123...
+2025-03-12 17:37:25 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/load-js-app.php...
+2025-03-12 17:37:25 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/load-js-app.php...
+2025-03-12 17:37:25 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/process.php...
+2025-03-12 17:37:25 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/process.php...
+2025-03-12 17:37:27 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/load-js-app.php
+📤 POST Data: ------WebKitFormBoundaryJ8w87FtLh2GG2Jmi
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryJ8w87FtLh2GG2Jmi--
+
+2025-03-12 17:37:27 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/load-js-app.php
+📤 POST Data: ------WebKitFormBoundaryJ8w87FtLh2GG2Jmi
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryJ8w87FtLh2GG2Jmi--
+
+2025-03-12 17:37:27 - 📥 AJAX Response: https://jobspreader.com/pxl/load-js-app.php (Status: 200)
+📥 Full JSON Response:
+{"app_type":"start","consent_match":"matomo","consent_action":"borlabs-cookie","consent_type":{"RegexConsent":"0","LocalStorageConsent":"0","CookieConsentEncoded":"0"},"js_start":[{"Text":["Jetzt online bewerben","Apply online now"],"Element":".apply-btn"}],"js_end":[],"js_appid":"46","is_refresh":"Yes","js_end_type":"URL","register":[{"Type":"Instant","Value":""},{"Type":"AfterClick","Value":{"Selectors":[{"Text":[""],"Element":"._brlbs-accept a"}]}}],"allowed_states":"Cookie","redecorate":"1"}
+2025-03-12 17:37:27 - 📥 AJAX Response: https://jobspreader.com/pxl/load-js-app.php (Status: 200)
+📥 Full JSON Response:
+{"app_type":"start","consent_match":"matomo","consent_action":"borlabs-cookie","consent_type":{"RegexConsent":"0","LocalStorageConsent":"0","CookieConsentEncoded":"0"},"js_start":[{"Text":["Jetzt online bewerben","Apply online now"],"Element":".apply-btn"}],"js_end":[],"js_appid":"46","is_refresh":"Yes","js_end_type":"URL","register":[{"Type":"Instant","Value":""},{"Type":"AfterClick","Value":{"Selectors":[{"Text":[""],"Element":"._brlbs-accept a"}]}}],"allowed_states":"Cookie","redecorate":"1"}
+2025-03-12 17:37:31 - ✅ Found consent button [._brlbs-accept a] with text 'Alle akzeptieren', clicking...
+2025-03-12 17:37:31 - ✅ Found consent button [._brlbs-accept a] with text 'Alle akzeptieren', clicking...
+2025-03-12 17:37:31 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/process.php
+📤 POST Data: ------WebKitFormBoundaryzV1L0rdv2RXLwxkd
+Content-Disposition: form-data; name="jsl"
+
+MTIzfGh0dHBzOi8vd3d3LmdlYnJ1ZWRlci1wZXRlcnMuZGUvam9iLWFuemVpZ2VuLz9qb2JfYWQ9dGVhbWxlaXRlci1rb25zdHJ1a3Rpb24tdGVjaG5pc2NoZXItc3lzdGVtcGxhbmVyLWVsZWt0cm90ZWNobmlrLW0tdy1kLS0tam9iLWluZ29sc3RhZHQtOTY1MTUmdGM9Mi0xNTgwJmpzY2lkPTczMzM0N19jX2MmanN1aWQ9MTIzfHA=
+------WebKitFormBoundaryzV1L0rdv2RXLwxkd
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryzV1L0rdv2RXLwxkd
+Content-Disposition: form-data; name="apptype"
+
+start
+------WebKitFormBoundaryzV1L0rdv2RXLwxkd--
+
+2025-03-12 17:37:31 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/process.php
+📤 POST Data: ------WebKitFormBoundaryzV1L0rdv2RXLwxkd
+Content-Disposition: form-data; name="jsl"
+
+MTIzfGh0dHBzOi8vd3d3LmdlYnJ1ZWRlci1wZXRlcnMuZGUvam9iLWFuemVpZ2VuLz9qb2JfYWQ9dGVhbWxlaXRlci1rb25zdHJ1a3Rpb24tdGVjaG5pc2NoZXItc3lzdGVtcGxhbmVyLWVsZWt0cm90ZWNobmlrLW0tdy1kLS0tam9iLWluZ29sc3RhZHQtOTY1MTUmdGM9Mi0xNTgwJmpzY2lkPTczMzM0N19jX2MmanN1aWQ9MTIzfHA=
+------WebKitFormBoundaryzV1L0rdv2RXLwxkd
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryzV1L0rdv2RXLwxkd
+Content-Disposition: form-data; name="apptype"
+
+start
+------WebKitFormBoundaryzV1L0rdv2RXLwxkd--
+
+2025-03-12 17:37:31 - 📥 AJAX Response: https://jobspreader.com/pxl/process.php (Status: 200)
+📥 Response Body (non-JSON):
+<pre>You're awesome!
+2025-03-12 17:37:31 - 📥 AJAX Response: https://jobspreader.com/pxl/process.php (Status: 200)
+📥 Response Body (non-JSON):
+<pre>You're awesome!
+2025-03-12 17:37:36 - 127.0.0.1 - - [12/Mar/2025 17:37:36] "HEAD / HTTP/1.1" 200 -
+2025-03-12 17:37:37 - ⏳ Checking for script load...
+2025-03-12 17:37:37 - ⏳ Checking for script load...
+2025-03-12 17:37:38 - 📜 Loaded Scripts: ['//matomo.gebr-peters.de/matomo.js', 'https://www.gebrueder-peters.de/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=470000', 'https://www.gebrueder-peters.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap.bundle.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap-multiselect.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/jquery.touchSwipe.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/slick.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/countUp.umd.js?ver=2.3.2', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/aos.js?ver=3.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-card/image-card.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-slider/image-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/partner-slider/partner-slider.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/reveal-gallery/reveal-gallery.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/job/job-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/fancybox.umd.js?ver=4.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/lightbox.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.3', 'https://jobspreader.com/pxl/reload.min.js?ts=1741801047', 'https://www.jobcluster.de/js/customer/job-ad-integration.js', 'https://www.gebrueder-peters.de/wp-includes/js/imagesloaded.min.js?ver=5.0.0', 'https://www.gebrueder-peters.de/wp-includes/js/masonry.min.js?ver=4.2.2', 'https://www.gebrueder-peters.de/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.2.08', 'https://www.gebrueder-peters.de/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js?ver=4.6.4', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/navigation.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/aos.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/key-fact-card.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.10', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/scripts/46.min.js?ts=1741801046', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741801046797']
+2025-03-12 17:37:38 - 📜 Loaded Scripts: ['//matomo.gebr-peters.de/matomo.js', 'https://www.gebrueder-peters.de/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=470000', 'https://www.gebrueder-peters.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap.bundle.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap-multiselect.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/jquery.touchSwipe.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/slick.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/countUp.umd.js?ver=2.3.2', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/aos.js?ver=3.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-card/image-card.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-slider/image-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/partner-slider/partner-slider.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/reveal-gallery/reveal-gallery.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/job/job-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/fancybox.umd.js?ver=4.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/lightbox.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.3', 'https://jobspreader.com/pxl/reload.min.js?ts=1741801047', 'https://www.jobcluster.de/js/customer/job-ad-integration.js', 'https://www.gebrueder-peters.de/wp-includes/js/imagesloaded.min.js?ver=5.0.0', 'https://www.gebrueder-peters.de/wp-includes/js/masonry.min.js?ver=4.2.2', 'https://www.gebrueder-peters.de/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.2.08', 'https://www.gebrueder-peters.de/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js?ver=4.6.4', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/navigation.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/aos.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/key-fact-card.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.10', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/scripts/46.min.js?ts=1741801046', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741801046797']
+2025-03-12 17:37:38 - ✅ Target script found: https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741801046797
+2025-03-12 17:37:38 - ✅ Target script found: https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741801046797
+2025-03-12 17:37:38 - 🔎 Checking for 'matomo' cookie...
+2025-03-12 17:37:38 - 🔎 Checking for 'matomo' cookie...
+2025-03-12 17:37:38 - ❌ 'matomo' cookie not found!
+2025-03-12 17:37:38 - ❌ 'matomo' cookie not found!
+2025-03-12 17:37:38 - 💾 Storage used: 0.00 MB
+2025-03-12 17:37:38 - 💾 Storage used: 0.00 MB
+2025-03-12 17:37:38 - 🔍 Memory usage: 8.34 MB
+2025-03-12 17:37:38 - 🔍 Memory usage: 8.34 MB
+2025-03-12 17:37:38 - ========================================
+2025-03-12 17:37:38 - ========================================
+2025-03-12 17:37:38 - ✅ [TEST COMPLETED]
+2025-03-12 17:37:38 - ✅ [TEST COMPLETED]
+2025-03-12 17:37:38 - ========================================
+2025-03-12 17:37:38 - ========================================
+2025-03-12 17:37:38 - 127.0.0.1 - - [12/Mar/2025 17:37:38] "GET /run-test HTTP/1.1" 200 -
+2025-03-12 17:42:27 - 127.0.0.1 - - [12/Mar/2025 17:42:27] "GET / HTTP/1.1" 200 -
+2025-03-12 17:42:29 - 
+========================================
+2025-03-12 17:42:29 - 
+========================================
+2025-03-12 17:42:29 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:42:29 - 📌 [TEST STARTED] Visiting: https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123
+2025-03-12 17:42:29 - ========================================
+2025-03-12 17:42:29 - ========================================
+2025-03-12 17:42:29 - 🧹 Clearing cookies and storage...
+2025-03-12 17:42:29 - 🧹 Clearing cookies and storage...
+2025-03-12 17:42:31 - 🌍 Navigating to https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123...
+2025-03-12 17:42:31 - 🌍 Navigating to https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123...
+2025-03-12 17:42:31 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/load-js-app.php...
+2025-03-12 17:42:31 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/load-js-app.php...
+2025-03-12 17:42:31 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/process.php...
+2025-03-12 17:42:31 - 📡 Monitoring AJAX requests for https://jobspreader.com/pxl/process.php...
+2025-03-12 17:42:34 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/load-js-app.php
+📤 POST Data: ------WebKitFormBoundaryMXvUeSQZzhcXuQyI
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryMXvUeSQZzhcXuQyI--
+
+2025-03-12 17:42:34 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/load-js-app.php
+📤 POST Data: ------WebKitFormBoundaryMXvUeSQZzhcXuQyI
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundaryMXvUeSQZzhcXuQyI--
+
+2025-03-12 17:42:34 - 📥 AJAX Response: https://jobspreader.com/pxl/load-js-app.php (Status: 200)
+📥 Full JSON Response:
+{"app_type":"start","consent_match":"matomo","consent_action":"borlabs-cookie","consent_type":{"RegexConsent":"0","LocalStorageConsent":"0","CookieConsentEncoded":"0"},"js_start":[{"Text":["Jetzt online bewerben","Apply online now"],"Element":".apply-btn"}],"js_end":[],"js_appid":"46","is_refresh":"Yes","js_end_type":"URL","register":[{"Type":"Instant","Value":""},{"Type":"AfterClick","Value":{"Selectors":[{"Text":[""],"Element":"._brlbs-accept a"}]}}],"allowed_states":"Cookie","redecorate":"1"}
+2025-03-12 17:42:34 - 📥 AJAX Response: https://jobspreader.com/pxl/load-js-app.php (Status: 200)
+📥 Full JSON Response:
+{"app_type":"start","consent_match":"matomo","consent_action":"borlabs-cookie","consent_type":{"RegexConsent":"0","LocalStorageConsent":"0","CookieConsentEncoded":"0"},"js_start":[{"Text":["Jetzt online bewerben","Apply online now"],"Element":".apply-btn"}],"js_end":[],"js_appid":"46","is_refresh":"Yes","js_end_type":"URL","register":[{"Type":"Instant","Value":""},{"Type":"AfterClick","Value":{"Selectors":[{"Text":[""],"Element":"._brlbs-accept a"}]}}],"allowed_states":"Cookie","redecorate":"1"}
+2025-03-12 17:42:36 - 127.0.0.1 - - [12/Mar/2025 17:42:36] "HEAD / HTTP/1.1" 200 -
+2025-03-12 17:42:38 - ✅ Found consent button [._brlbs-accept a] with text 'Alle akzeptieren', clicking...
+2025-03-12 17:42:38 - ✅ Found consent button [._brlbs-accept a] with text 'Alle akzeptieren', clicking...
+2025-03-12 17:42:38 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/process.php
+📤 POST Data: ------WebKitFormBoundary8CF4TVsDWV3hZQ6E
+Content-Disposition: form-data; name="jsl"
+
+MTIzfGh0dHBzOi8vd3d3LmdlYnJ1ZWRlci1wZXRlcnMuZGUvam9iLWFuemVpZ2VuLz9qb2JfYWQ9dGVhbWxlaXRlci1rb25zdHJ1a3Rpb24tdGVjaG5pc2NoZXItc3lzdGVtcGxhbmVyLWVsZWt0cm90ZWNobmlrLW0tdy1kLS0tam9iLWluZ29sc3RhZHQtOTY1MTUmdGM9Mi0xNTgwJmpzY2lkPTczMzM0N19jX2MmanN1aWQ9MTIzfHA=
+------WebKitFormBoundary8CF4TVsDWV3hZQ6E
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundary8CF4TVsDWV3hZQ6E
+Content-Disposition: form-data; name="apptype"
+
+start
+------WebKitFormBoundary8CF4TVsDWV3hZQ6E--
+
+2025-03-12 17:42:38 - 🔍 AJAX Request: POST https://jobspreader.com/pxl/process.php
+📤 POST Data: ------WebKitFormBoundary8CF4TVsDWV3hZQ6E
+Content-Disposition: form-data; name="jsl"
+
+MTIzfGh0dHBzOi8vd3d3LmdlYnJ1ZWRlci1wZXRlcnMuZGUvam9iLWFuemVpZ2VuLz9qb2JfYWQ9dGVhbWxlaXRlci1rb25zdHJ1a3Rpb24tdGVjaG5pc2NoZXItc3lzdGVtcGxhbmVyLWVsZWt0cm90ZWNobmlrLW0tdy1kLS0tam9iLWluZ29sc3RhZHQtOTY1MTUmdGM9Mi0xNTgwJmpzY2lkPTczMzM0N19jX2MmanN1aWQ9MTIzfHA=
+------WebKitFormBoundary8CF4TVsDWV3hZQ6E
+Content-Disposition: form-data; name="jsappid"
+
+46
+------WebKitFormBoundary8CF4TVsDWV3hZQ6E
+Content-Disposition: form-data; name="apptype"
+
+start
+------WebKitFormBoundary8CF4TVsDWV3hZQ6E--
+
+2025-03-12 17:42:39 - 📥 AJAX Response: https://jobspreader.com/pxl/process.php (Status: 200)
+📥 Response Body (non-JSON):
+<pre>You're awesome!
+2025-03-12 17:42:39 - 📥 AJAX Response: https://jobspreader.com/pxl/process.php (Status: 200)
+📥 Response Body (non-JSON):
+<pre>You're awesome!
+2025-03-12 17:42:44 - ⏳ Checking for script load...
+2025-03-12 17:42:44 - ⏳ Checking for script load...
+2025-03-12 17:42:44 - 📜 Loaded Scripts: ['//matomo.gebr-peters.de/matomo.js', 'https://www.gebrueder-peters.de/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=470000', 'https://www.gebrueder-peters.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap.bundle.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap-multiselect.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/jquery.touchSwipe.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/slick.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/countUp.umd.js?ver=2.3.2', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/aos.js?ver=3.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-card/image-card.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-slider/image-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/partner-slider/partner-slider.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/reveal-gallery/reveal-gallery.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/job/job-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/fancybox.umd.js?ver=4.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/lightbox.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.3', 'https://jobspreader.com/pxl/reload.min.js?ts=1741801354', 'https://www.jobcluster.de/js/customer/job-ad-integration.js', 'https://www.gebrueder-peters.de/wp-includes/js/imagesloaded.min.js?ver=5.0.0', 'https://www.gebrueder-peters.de/wp-includes/js/masonry.min.js?ver=4.2.2', 'https://www.gebrueder-peters.de/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.2.08', 'https://www.gebrueder-peters.de/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js?ver=4.6.4', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/navigation.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/aos.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/key-fact-card.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.10', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/scripts/46.min.js?ts=1741801353', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741801353431']
+2025-03-12 17:42:44 - 📜 Loaded Scripts: ['//matomo.gebr-peters.de/matomo.js', 'https://www.gebrueder-peters.de/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=470000', 'https://www.gebrueder-peters.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap.bundle.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/bootstrap-multiselect.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/jquery.touchSwipe.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/slick.min.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/countUp.umd.js?ver=2.3.2', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/libs/aos.js?ver=3.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-card/image-card.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/image-slider/image-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/partner-slider/partner-slider.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/reveal-gallery/reveal-gallery.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/job/job-slider.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/fancybox.umd.js?ver=4.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/template-parts/blocks/lightbox-slider/lightbox.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie-prioritize.min.js?ver=2.3', 'https://jobspreader.com/pxl/reload.min.js?ts=1741801354', 'https://www.jobcluster.de/js/customer/job-ad-integration.js', 'https://www.gebrueder-peters.de/wp-includes/js/imagesloaded.min.js?ver=5.0.0', 'https://www.gebrueder-peters.de/wp-includes/js/masonry.min.js?ver=4.2.2', 'https://www.gebrueder-peters.de/wp-content/plugins/honeypot/includes/js/wpa.js?ver=2.2.08', 'https://www.gebrueder-peters.de/wp-content/plugins/insta-gallery/assets/frontend/swiper/swiper.min.js?ver=4.6.4', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/navigation.js?ver=1.1.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/aos.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/themes/gebruder-peters/js/key-fact-card.js?ver=1.0.0', 'https://www.gebrueder-peters.de/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.15.10', 'https://www.gebrueder-peters.de/wp-content/plugins/borlabs-cookie/assets/javascript/borlabs-cookie.min.js?ver=2.3', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/scripts/46.min.js?ts=1741801353', 'https://app.talk-n-job.de/js/tnj-sti.min.js', 'https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741801353431']
+2025-03-12 17:42:44 - ✅ Target script found: https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741801353431
+2025-03-12 17:42:44 - ✅ Target script found: https://jobspreader.com/pxl/script.min.js?jsappid=46&ts=1741801353431
+2025-03-12 17:42:44 - 🔎 Checking for 'matomo' cookie...
+2025-03-12 17:42:44 - 🔎 Checking for 'matomo' cookie...
+2025-03-12 17:42:44 - ❌ 'matomo' cookie not found!
+2025-03-12 17:42:44 - ❌ 'matomo' cookie not found!
+2025-03-12 17:42:44 - 💾 Storage used: 0.00 MB
+2025-03-12 17:42:44 - 💾 Storage used: 0.00 MB
+2025-03-12 17:42:44 - 🔍 Memory usage: 0.50 MB
+2025-03-12 17:42:44 - 🔍 Memory usage: 0.50 MB
+2025-03-12 17:42:44 - ========================================
+2025-03-12 17:42:44 - ========================================
+2025-03-12 17:42:44 - ✅ [TEST COMPLETED]
+2025-03-12 17:42:44 - ✅ [TEST COMPLETED]
+2025-03-12 17:42:44 - ========================================
+2025-03-12 17:42:44 - ========================================
+2025-03-12 17:42:44 - 127.0.0.1 - - [12/Mar/2025 17:42:44] "GET /run-test HTTP/1.1" 200 -
+2025-03-12 17:47:36 - 127.0.0.1 - - [12/Mar/2025 17:47:36] "HEAD / HTTP/1.1" 200 -
+2025-03-12 17:52:36 - 127.0.0.1 - - [12/Mar/2025 17:52:36] "HEAD / HTTP/1.1" 200 -
+2025-03-12 17:57:35 - 127.0.0.1 - - [12/Mar/2025 17:57:35] "HEAD / HTTP/1.1" 200 -
+2025-03-12 18:02:36 - 127.0.0.1 - - [12/Mar/2025 18:02:36] "HEAD / HTTP/1.1" 200 -
+2025-03-12 18:07:36 - 127.0.0.1 - - [12/Mar/2025 18:07:36] "HEAD / HTTP/1.1" 200 -
+2025-03-12 18:12:36 - 127.0.0.1 - - [12/Mar/2025 18:12:36] "HEAD / HTTP/1.1" 200 -
