@@ -1,0 +1,64 @@
+{
+    "metadata": {
+        "target_url": "https://www.gebrueder-peters.de/job-anzeigen/?job_ad=teamleiter-konstruktion-technischer-systemplaner-elektrotechnik-m-w-d---job-ingolstadt-96515&tc=2-1580&jscid=733347_c_c&jsuid=123",
+        "timestamp": "2025-03-12T17:42:29.018552"
+    },
+    "requests": {
+        "JSALOAD": [
+            {
+                "url": "https://jobspreader.com/pxl/process.php",
+                "method": "POST",
+                "request_headers": {
+                    "sec-ch-ua": "\"HeadlessChrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\"",
+                    "sec-ch-ua-platform": "\"Linux\"",
+                    "referer": "",
+                    "sec-ch-ua-mobile": "?0",
+                    "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/123.0.6312.4 Safari/537.36",
+                    "content-type": "multipart/form-data; boundary=----WebKitFormBoundary8CF4TVsDWV3hZQ6E"
+                },
+                "request_body": "------WebKitFormBoundary8CF4TVsDWV3hZQ6E\r\nContent-Disposition: form-data; name=\"jsl\"\r\n\r\nMTIzfGh0dHBzOi8vd3d3LmdlYnJ1ZWRlci1wZXRlcnMuZGUvam9iLWFuemVpZ2VuLz9qb2JfYWQ9dGVhbWxlaXRlci1rb25zdHJ1a3Rpb24tdGVjaG5pc2NoZXItc3lzdGVtcGxhbmVyLWVsZWt0cm90ZWNobmlrLW0tdy1kLS0tam9iLWluZ29sc3RhZHQtOTY1MTUmdGM9Mi0xNTgwJmpzY2lkPTczMzM0N19jX2MmanN1aWQ9MTIzfHA=\r\n------WebKitFormBoundary8CF4TVsDWV3hZQ6E\r\nContent-Disposition: form-data; name=\"jsappid\"\r\n\r\n46\r\n------WebKitFormBoundary8CF4TVsDWV3hZQ6E\r\nContent-Disposition: form-data; name=\"apptype\"\r\n\r\nstart\r\n------WebKitFormBoundary8CF4TVsDWV3hZQ6E--\r\n",
+                "timestamp": "2025-03-12 17:42:38",
+                "status": 200,
+                "response_headers": {
+                    "access-control-allow-origin": "https://www.gebrueder-peters.de",
+                    "date": "Wed, 12 Mar 2025 17:42:39 GMT",
+                    "content-encoding": "br",
+                    "server": "nginx",
+                    "vary": "Accept-Encoding",
+                    "content-type": "text/html; charset=utf-8"
+                },
+                "response_body": "<pre>You're awesome!"
+            }
+        ],
+        "JSACONFIG": [
+            {
+                "url": "https://jobspreader.com/pxl/load-js-app.php",
+                "method": "POST",
+                "request_headers": {
+                    "sec-ch-ua": "\"HeadlessChrome\";v=\"123\", \"Not:A-Brand\";v=\"8\", \"Chromium\";v=\"123\"",
+                    "sec-ch-ua-platform": "\"Linux\"",
+                    "referer": "",
+                    "sec-ch-ua-mobile": "?0",
+                    "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/123.0.6312.4 Safari/537.36",
+                    "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryMXvUeSQZzhcXuQyI"
+                },
+                "request_body": "------WebKitFormBoundaryMXvUeSQZzhcXuQyI\r\nContent-Disposition: form-data; name=\"jsappid\"\r\n\r\n46\r\n------WebKitFormBoundaryMXvUeSQZzhcXuQyI--\r\n",
+                "timestamp": "2025-03-12 17:42:34",
+                "status": 200,
+                "response_headers": {
+                    "access-control-allow-origin": "https://www.gebrueder-peters.de",
+                    "date": "Wed, 12 Mar 2025 17:42:34 GMT",
+                    "content-encoding": "br",
+                    "server": "nginx",
+                    "vary": "Accept-Encoding",
+                    "content-type": "application/json; charset=utf-8"
+                },
+                "response_body": "{\"app_type\":\"start\",\"consent_match\":\"matomo\",\"consent_action\":\"borlabs-cookie\",\"consent_type\":{\"RegexConsent\":\"0\",\"LocalStorageConsent\":\"0\",\"CookieConsentEncoded\":\"0\"},\"js_start\":[{\"Text\":[\"Jetzt online bewerben\",\"Apply online now\"],\"Element\":\".apply-btn\"}],\"js_end\":[],\"js_appid\":\"46\",\"is_refresh\":\"Yes\",\"js_end_type\":\"URL\",\"register\":[{\"Type\":\"Instant\",\"Value\":\"\"},{\"Type\":\"AfterClick\",\"Value\":{\"Selectors\":[{\"Text\":[\"\"],\"Element\":\"._brlbs-accept a\"}]}}],\"allowed_states\":\"Cookie\",\"redecorate\":\"1\"}"
+            }
+        ]
+    },
+    "page_info": {
+        "consent_clicked": true,
+        "script_loaded": true
+    }
+}
